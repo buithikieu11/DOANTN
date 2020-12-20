@@ -13,6 +13,7 @@ Hướng dẫn cài đặt và sử dụng hệ thống
 
 1.2.	Bật terminal để start server bằng cách gõ lần lượt 2 câu lệnh sau:
 •	set FLASK_APP=app.py
+
 •	flask run
 
 1.3.	Cài đặt Chrome Extension
