@@ -12,6 +12,7 @@ Hướng dẫn cài đặt và sử dụng hệ thống
 -	Tạo cơ sở dữ liệu với tên là rsblog, tiến hành import 1 collection viblo_posts từ file csv viblo_posts.csv. Sử dụng hệ quản trị cơ sở dữ liệu MongoDb.
 
 1.2.	Bật terminal để start server bằng cách gõ lần lượt 2 câu lệnh sau:
+
 •	set FLASK_APP=app.py
 
 •	flask run
