@@ -3,11 +3,13 @@ Link database: https://drive.google.com/drive/folders/1SYV7wxFMUD2o12T_CbQfEJVMu
 Hướng dẫn cài đặt và sử dụng hệ thống
 
 1.	Hướng dẫn cài đặt chương trình
+
 1.1.	Bật server
 -	Mở thư mục …\PostRS \API\
 -	Tất cả thư viện đã được lưu trong file requirements.txt, vì thế ta tiến hành cài thư viện như sau:
    Mở terminal và gõ lệnh: pip install -r requirements.txt
 -	Tạo cơ sở dữ liệu với tên là rsblog, tiến hành import 1 collection viblo_posts từ file csv viblo_posts.csv. Sử dụng hệ quản trị cơ sở dữ liệu MongoDb.
+
 1.2.	Bật terminal để start server bằng cách gõ lần lượt 2 câu lệnh sau:
 •	set FLASK_APP=app.py
 •	flask run
